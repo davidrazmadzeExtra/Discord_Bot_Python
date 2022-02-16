@@ -1,5 +1,9 @@
 # Discord Bot (Python3)
 
+Discord Developer Portal:
+
+https://discord.com/developers/applications
+
 ## Prereqs
 
 1. Make sure `python3` is install along with `pip3`
